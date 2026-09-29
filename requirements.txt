@@ -1,0 +1,8 @@
+﻿numpy
+pandas
+librosa
+scikit-learn
+joblib
+pygame
+soundfile
+audioread
