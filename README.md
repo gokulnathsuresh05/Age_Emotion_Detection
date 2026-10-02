@@ -78,10 +78,22 @@ These results are based on the project's test datasets and should not be conside
 
 ## Important Age Note
 
-The current age model predicts age groups rather than exact numerical ages.
+## Dataset Sources
 
-The current workflow uses the sixties age group as the senior-age category.
+The project uses the following publicly available datasets:
 
+1. Mozilla Common Voice – South Asian English
+   - Used for age-group and gender classification.
+   - Dataset: https://datacollective.mozillafoundation.org/
+
+2. RAVDESS
+   - Used for speech emotion classification.
+   - Dataset: https://zenodo.org/records/1188976
+
+3. CREMA-D
+   - Used for speech emotion classification.
+   - Dataset: https://github.com/CheyneyComputerScience/CREMA-D
+     
 ## Project Structure
 
 Age_Emotion_Detection/
